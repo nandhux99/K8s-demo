@@ -19,6 +19,4 @@ spec:
         image: nandhulal0499/netflix-clone-app-demo:latest
         ports:
         - containerPort: 80
-        env:
-        - name: TMDB_V3_API_KEY
-          value: "4e9395e4ee8e25661fb4c40a02518bba"
+ 
