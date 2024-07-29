@@ -13,6 +13,6 @@ spec:
             pathType: Prefix
             backend:
               service:
-                name: nginx-argo-service
+                name: my-app-service
                 port:
                   number: 80
